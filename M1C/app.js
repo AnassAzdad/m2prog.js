@@ -5,7 +5,8 @@ class App
         let boolean = true;
         let string = "Ik ben een mens";
         let number = 30;
-       
+    
+        
         let appNaam = "DemoApp"
         let appVersie = "1.0"
         let appVersieDate = "30 Mei 2007"
@@ -24,8 +25,10 @@ class App
         console.log("App distrubiteur: " + appDistribiteur)
         console.log("darkmode: " + appDarkmode)
         
-
-        
+        this.greeting="Start Man!";
+        this.boolean="true";
+        this.string="Ik ben een mens";
+        this.number="30";
     
              
     }
