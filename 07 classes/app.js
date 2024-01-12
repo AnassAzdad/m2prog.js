@@ -34,3 +34,9 @@ app.runApplication();
 greet.showGreeting();
 bye.ShowBye();
 
+greet.showGreeting();
+bye.ShowBye();
+greet.showGreeting();
+bye.ShowBye();
+greet.showGreeting();
+bye.ShowBye();
